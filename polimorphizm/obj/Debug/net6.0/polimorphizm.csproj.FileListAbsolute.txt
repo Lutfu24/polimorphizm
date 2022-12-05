@@ -1,0 +1,15 @@
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.exe
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.deps.json
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.runtimeconfig.json
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.dll
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\bin\Debug\net6.0\polimorphizm.pdb
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.csproj.AssemblyReference.cache
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfoInputs.cache
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.AssemblyInfo.cs
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.csproj.CoreCompileInputs.cache
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.dll
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\refint\polimorphizm.dll
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.pdb
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\polimorphizm.genruntimeconfig.cache
+C:\Users\99451\source\repos\polimorphizm\polimorphizm\obj\Debug\net6.0\ref\polimorphizm.dll
